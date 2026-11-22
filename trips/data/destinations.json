@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "name": "חוות הגמלים",
+    "region": "צפון",
+    "categories": ["טבע", "חיות"],
+    "min_grade": 1,
+    "max_grade": 6,
+    "estimated_cost": 55,
+    "duration_hours": 4,
+    "description": "חוות גמלים אינטראקטיבית הכוללת רכיבה על גמלים, סדנת גבינות ופינת חי"
+  },
+  {
+    "id": 2,
+    "name": "שמורת עין גדי",
+    "region": "דרום",
+    "categories": ["טבע", "טיולים"],
+    "min_grade": 4,
+    "max_grade": 12,
+    "estimated_cost": 35,
+    "duration_hours": 5,
+    "description": "שמורת טבע מדברית עם מפלי מים, נחלות ומסלולי הליכה"
+  },
+  {
+    "id": 3,
+    "name": "מוזיאון המדע - מדטק",
+    "region": "צפון",
+    "categories": ["מדע", "חינוך"],
+    "min_grade": 1,
+    "max_grade": 12,
+    "estimated_cost": 45,
+    "duration_hours": 3,
+    "description": "מוזיאון מדע אינטראקטיבי בחיפה עם תערוכות מעשיות ומופעי מדע"
+  },
+  {
+    "id": 4,
+    "name": "מצדה",
+    "region": "דרום",
+    "categories": ["היסטוריה", "טיולים"],
+    "min_grade": 5,
+    "max_grade": 12,
+    "estimated_cost": 50,
+    "duration_hours": 5,
+    "description": "אתר מורשת עולמית של אונסקו, מצודת הורדוס עם נוף מדברי מרהיב"
+  },
+  {
+    "id": 5,
+    "name": "גן גורו",
+    "region": "מרכז",
+    "categories": ["חיות", "טבע"],
+    "min_grade": 1,
+    "max_grade": 4,
+    "estimated_cost": 65,
+    "duration_hours": 3,
+    "description": "גן חיות אוסטרלי עם קנגורואים, קואלות ותוכים שניתן להאכיל ולגעת"
+  },
+  {
+    "id": 6,
+    "name": "מכתש רמון",
+    "region": "דרום",
+    "categories": ["טבע", "גיאולוגיה", "טיולים"],
+    "min_grade": 6,
+    "max_grade": 12,
+    "estimated_cost": 30,
+    "duration_hours": 6,
+    "description": "המכתש הגדול בעולם, מסלולי טיולים ותצפיות גיאולוגיות ייחודיות"
+  },
+  {
+    "id": 7,
+    "name": "עיר דוד",
+    "region": "ירושלים",
+    "categories": ["היסטוריה", "ארכיאולוגיה"],
+    "min_grade": 4,
+    "max_grade": 12,
+    "estimated_cost": 50,
+    "duration_hours": 4,
+    "description": "אתר ארכיאולוגי בירושלים הכולל מנהרות מים, חפירות ומציאות מתקופת בית ראשון"
+  },
+  {
+    "id": 8,
+    "name": "פארק הירדן",
+    "region": "צפון",
+    "categories": ["ספורט", "מים"],
+    "min_grade": 3,
+    "max_grade": 8,
+    "estimated_cost": 75,
+    "duration_hours": 5,
+    "description": "פארק מים ואקסטרים לצד נהר הירדן עם קיאקים, רפטינג ומתקני ספורט"
+  },
+  {
+    "id": 9,
+    "name": "מוזיאון ישראל",
+    "region": "ירושלים",
+    "categories": ["אמנות", "היסטוריה", "חינוך"],
+    "min_grade": 3,
+    "max_grade": 12,
+    "estimated_cost": 40,
+    "duration_hours": 4,
+    "description": "המוזיאון הלאומי של ישראל, כולל היכל הספר, אגף נוער ומודל ירושלים"
+  },
+  {
+    "id": 10,
+    "name": "חוף דור הבונים",
+    "region": "חוף",
+    "categories": ["טבע", "ים"],
+    "min_grade": 1,
+    "max_grade": 12,
+    "estimated_cost": 15,
+    "duration_hours": 5,
+    "description": "שמורת חוף ים תיכוני עם בריכות גאות, שונית סלעית ושביל חוף"
+  },
+  {
+    "id": 11,
+    "name": "מיני ישראל",
+    "region": "מרכז",
+    "categories": ["חינוך", "תרבות"],
+    "min_grade": 1,
+    "max_grade": 6,
+    "estimated_cost": 69,
+    "duration_hours": 3,
+    "description": "פארק מיניאטורות של אתרי ישראל בקנה מידה מוקטן, חוויה לימודית"
+  },
+  {
+    "id": 12,
+    "name": "תל מגידו",
+    "region": "צפון",
+    "categories": ["ארכיאולוגיה", "היסטוריה"],
+    "min_grade": 7,
+    "max_grade": 12,
+    "estimated_cost": 35,
+    "duration_hours": 3,
+    "description": "אתר ארכיאולוגי מרשים, עיר מקראית עתיקה ואתר מורשת עולמית"
+  },
+  {
+    "id": 13,
+    "name": "יער בן שמן",
+    "region": "מרכז",
+    "categories": ["טבע", "ספורט"],
+    "min_grade": 1,
+    "max_grade": 6,
+    "estimated_cost": 20,
+    "duration_hours": 4,
+    "description": "יער נטוע עם שבילי הליכה, פיקניק, פעילויות שטח ואופניים"
+  },
+  {
+    "id": 14,
+    "name": "הכותל המערבי והרובע היהודי",
+    "region": "ירושלים",
+    "categories": ["היסטוריה", "תרבות", "דת"],
+    "min_grade": 3,
+    "max_grade": 12,
+    "estimated_cost": 25,
+    "duration_hours": 4,
+    "description": "סיור בעיר העתיקה, הכותל המערבי, מנהרות הכותל והרובע היהודי"
+  },
+  {
+    "id": 15,
+    "name": "פארק אשכול",
+    "region": "דרום",
+    "categories": ["טבע", "ספורט"],
+    "min_grade": 1,
+    "max_grade": 8,
+    "estimated_cost": 30,
+    "duration_hours": 4,
+    "description": "פארק נרחב בנגב עם בריכות, מדשאות, מסלולי אופניים ופעילויות שטח"
+  },
+  {
+    "id": 16,
+    "name": "ראש הנקרה",
+    "region": "צפון",
+    "categories": ["טבע", "גיאולוגיה"],
+    "min_grade": 2,
+    "max_grade": 12,
+    "estimated_cost": 48,
+    "duration_hours": 3,
+    "description": "מערות גיר לבנות על שפת הים, רכבל ותצפית על הגבול הצפוני"
+  },
+  {
+    "id": 17,
+    "name": "בית גוברין - מרשה",
+    "region": "שפלה",
+    "categories": ["ארכיאולוגיה", "היסטוריה"],
+    "min_grade": 4,
+    "max_grade": 12,
+    "estimated_cost": 42,
+    "duration_hours": 4,
+    "description": "מערות חצובות באזור השפלה, חפירה ארכיאולוגית חווייתית לילדים"
+  },
+  {
+    "id": 18,
+    "name": "כפר הנוקדים",
+    "region": "דרום",
+    "categories": ["חוויה", "טבע", "תרבות"],
+    "min_grade": 1,
+    "max_grade": 12,
+    "estimated_cost": 80,
+    "duration_hours": 6,
+    "description": "חווית מדבר אותנטית עם רכיבה על גמלים, אוהלים בדואיים ולינת שטח"
+  }
+]
